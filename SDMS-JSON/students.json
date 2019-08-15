@@ -1,0 +1,91 @@
+{
+    "Student_10": {
+        "Roll No: ": "70910",
+        "Name: ": "Shahid",
+        "Fathers Name: ": "Mirza",
+        "Class: ": "13th",
+        "Subjects": [
+            "Urdu",
+            "English",
+            "Pakistan Studies",
+            "Islamiat"
+        ]
+    },
+    "Student_11": {
+        "Roll No: ": "70911",
+        "Name: ": "jawaid",
+        "Fathers Name: ": "Burhan",
+        "Class: ": "12th",
+        "Subjects": [
+            "Urdu",
+            "English",
+            "Pakistan Studies",
+            "Islamiat"
+        ]
+    },
+    "Student_12": {
+        "Roll No: ": "70912",
+        "Name: ": "Akbar",
+        "Fathers Name: ": "Aslam",
+        "Class: ": "10th",
+        "Subjects": [
+            "Urdu",
+            "English",
+            "Pakistan Studies",
+            "Islamiat"
+        ]
+    },
+    "Student_13": {
+        "Roll No: ": "70913",
+        "Name: ": "Akhtar",
+        "Fathers Name: ": "Mian",
+        "Class: ": "10th",
+        "Subjects": [
+            "Urdu",
+            "English",
+            "Pakistan Studies",
+            "Islamiat"
+        ]
+    },
+    "Student_14": {
+        "Roll No: ": "70914",
+        "Name: ": "Shabeer",
+        "Fathers Name: ": "Ahmed",
+        "Class: ": "13th",
+        "Subjects": [
+            "Commerce",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    "Student_15": {
+        "Roll No: ": "70915",
+        "Name: ": "Xain",
+        "Fathers Name: ": "Sal",
+        "Class: ": "13th",
+        "Subjects": [
+            "English",
+            "Urdu",
+            "Islamiat",
+            "Pakistan Studies",
+            "Commerce",
+            "Accounting",
+            "Mathematics"
+        ]
+    },
+    "Student_16": {
+        "Roll No: ": "70916",
+        "Name: ": "Shoaib",
+        "Fathers Name: ": "Akhter",
+        "Class: ": "14th",
+        "Subjects": [
+            "English",
+            "Urdu",
+            "Islamiat",
+            "Pakistan Studies",
+            "Chemistry",
+            "Physics",
+            "Biochemistry"
+        ]
+    }
+}
